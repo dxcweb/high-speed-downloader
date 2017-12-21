@@ -36,6 +36,11 @@ mac上来自身份不明的开发者
 
 参考https://jingyan.baidu.com/article/f71d60377960651ab741d140.html
 
+windows上谷歌插件启动不了
+
+![image.png](https://img.hacpai.com/file/2017/12/f089ebc849844bf2ae0268f3471079c6_image.png)
+
+
 更多问题请加QQ群526496999，版本升级将在QQ群内发布体验版。
 
 
