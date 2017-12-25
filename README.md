@@ -18,10 +18,10 @@
 安装说明
 ----
 
-本软件需要安装浏览器插件和下载器客户端
+本软件需要安装浏览器插件和客户端
 
 ### 下载地址
-链接：https://share.weiyun.com/2d1d66fb70779a7ee6938c102f25798f 密码：FMboFS
+链接: https://pan.baidu.com/s/1cGxjMu 密码: 82qf
 
 ### 浏览器插件安装
 浏览器地址输入chrome://extensions/并打开，把下载好的downloader.crx从文件夹里直接拖到“扩展程序”界面中
