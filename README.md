@@ -24,8 +24,8 @@
 链接: https://pan.baidu.com/s/1cGxjMu 密码: 82qf
 
 ### 浏览器插件安装
-- 360用户直接双击安装
-- 谷歌用户地址输入chrome://extensions/并打开，把下载好的downloader.crx从文件夹里直接拖到“扩展程序”界面中
+- 360用户直接双击安装“360插件.crx”，或直接拖到浏览器中。
+- 谷歌用户地址输入chrome://extensions/并打开，把下载好的“谷歌插件.crx”从文件夹里直接拖到“扩展程序”界面中。
 
 ![image.png](https://img.hacpai.com/file/2017/12/1e8b0fbac8514920931918731ac966bd_image.png)
 
