@@ -38,7 +38,7 @@ mac上来自身份不明的开发者
 
 ![image.png](https://img.hacpai.com/file/2017/12/26f3bac005be4dfcae8053adcea93da3_image.png)
 
-参考https://jingyan.baidu.com/article/f71d60377960651ab741d140.html
+参考https://www.macdo.cn/925.html
 
 
 
