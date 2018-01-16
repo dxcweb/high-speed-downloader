@@ -21,7 +21,8 @@
 本软件需要安装浏览器插件和客户端
 
 ### 下载地址
-链接: https://pan.baidu.com/s/1cGxjMu 密码: 82qf
+- 百度网盘: https://pan.baidu.com/s/1cGxjMu 密码: 82qf
+- 微云：https://share.weiyun.com/2d1d66fb70779a7ee6938c102f25798f 密码：7vtB9P
 
 ### 浏览器插件安装
 - 360用户直接双击安装“360插件.crx”，或直接拖到浏览器中。
