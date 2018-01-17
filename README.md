@@ -27,8 +27,8 @@
 - 微云：https://share.weiyun.com/2d1d66fb70779a7ee6938c102f25798f 密码：7vtB9P
 
 ### 浏览器插件安装
-- 360用户直接双击安装“360插件.crx”，或直接拖到浏览器中。
-- 谷歌用户地址输入chrome://extensions/并打开，把下载好的“谷歌插件.crx”从文件夹里直接拖到“扩展程序”界面中。
+仅支持新版谷歌浏览器，如安装失败请升级浏览器。
+- 打开谷歌浏览器地址输入chrome://extensions/并打开，把下载好的“谷歌插件.crx”从文件夹里直接拖到“扩展程序”界面中。
 
 ![image.png](https://img.hacpai.com/file/2017/12/1e8b0fbac8514920931918731ac966bd_image.png)
 
