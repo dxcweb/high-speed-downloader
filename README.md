@@ -1,49 +1,44 @@
-百度网盘不限速下载器 2017年12月21日发布
+百度网盘高速下载器 (Windows/macOS)
 =================
-这是一款通过算法来提速的高速下载器，支持Windows和Mac。
-<br/>
-<br/>
-***百度账号限制60G下载,单位未知,可重新注册。谨慎下载!感谢网友LY测试得出的结论***
-
-效果图
-----
+### 应用效果
 ![7551513691037_.pic.jpg](https://img.hacpai.com/file/2017/12/7b7365edcfb848bcb3448d404b9bd440_7551513691037_pic.jpg)
 
-使用方法
-----
-- 安装高速下载器客户端和浏览器插件
-- 打开[百度网盘](https://pan.baidu.com/)点击高速下载即可
+### 使用方法
+- 安装`高速下载器客户端` 和 `浏览器插件`
+- 打开[百度网盘 - 我的网盘页](https://pan.baidu.com/disk/home) 勾选文件或文件夹，点击高速下载即可
 
 ![image.png](https://img.hacpai.com/file/2017/12/68c0512566d747d6bc47a791aa7ed372_image.png)
 
-安装说明
-----
+### 安装说明
 
 本软件需要安装浏览器插件和客户端
 
 ### 下载地址
-- 微云：https://share.weiyun.com/2d1d66fb70779a7ee6938c102f25798f 密码：7vtB9P
+
+[跨平台客户端应用与浏览器插件 Release 下载](https://github.com/sarkrui/high-speed-downloader/releases/tag/v2.0.0)
 
 ### 浏览器插件安装
-1. 下载包解压
-2. 在 Chrome 地址栏输入 `chrome://extensions/` 以打开扩展程序管理页面
-3. 顶部勾选“开发者模式”，再点击“加载已解压的扩展程序...”，路径为刚才的解压目录
+* **谷歌浏览器**
+
+  打开谷歌浏览器地址输入`chrome://extensions/`并打开，把下载好的 `Chrome-extension.crx` 从文件夹里直接拖到“扩展程序”界面中。
+  ![image.png](https://img.hacpai.com/file/2017/12/1e8b0fbac8514920931918731ac966bd_image.png)
+
+* **360等浏览器** 
+
+  双击 `360等浏览器插件.crx` 安装或者拖进浏览器中
 
 ### 客户端安装
-- mac:正常安装即可。
-- windows免安装:下载解压打开downloader.exe
 
-常见问题
-----
-mac上来自身份不明的开发者
+- **Mac**: 摇拽 `downloader.app` 于  `/Applications` 目录
+- **Windows**: 根据系统平台选择 `x86位` 或 `x64 位` 双击运行 `downloader.exe` 即可
 
+### 常见问题
 ![image.png](https://img.hacpai.com/file/2017/12/26f3bac005be4dfcae8053adcea93da3_image.png)
 
-参考https://www.macdo.cn/925.html
+macOS Sierra 及更新的系统提高了 GateKeeper 的验证门槛，隐藏了`安全与隐私` 的 `允许任何来源的应用`选项，旨在避免未经签名的应用在系统上任意被执行；关闭 Gatekeeper 可以通过以下命令行实现：
 
+>  sudo spctl --master-disable
 
+## 鸣谢
 
-其他问题请加QQ群:36228671
-
-
-插件会占用不到5%的CPU（不会占用显卡）用于提高算力，用户可以自行对比打开插件和关闭插件后CPU占用率以及其他各项性能的差别，折合成经济成本，每人每天不到1分钱，一个月不到3角钱，收益将用于项目维持，不会对个人电脑造成任何的损害，不用时关闭插件即可。特别再次申明，在该项目创立之初，作者几经权衡之后，出于互利共赢的考虑，还是在软件付费、商业广告和占用一点空闲的CPU之间选择了后者，如果对此特别介意的用户，请绕行。
+* [百度高速下载 high speed downloader](https://github.com/high-speed-downloader/high-speed-downloader)
