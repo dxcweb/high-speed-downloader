@@ -30,7 +30,7 @@
 ### 浏览器插件安装
 谷歌浏览器
 <br/>打开谷歌浏览器地址输入chrome://extensions/并打开，把下载好的“新版谷歌浏览器插件.crx”从文件夹里直接拖到“扩展程序”界面中。
-![image.png](https://img.hacpai.com/file/2017/12/1e8b0fbac8514920931918731ac966bd_image.png)
+![image.png](https://img.hacpai.com/file/2019/06/WechatIMG42-1b8208c4.png)
 
 360等浏览器
 <br/>双击“360等浏览器插件.crx”安装或者拖进浏览器中
